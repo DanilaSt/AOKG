@@ -1,0 +1,8 @@
+﻿  Source1.cpp
+F:\АОКГ\Lab 1\Source1.cpp(65,36): warning C4305: аргумент: усечение из "double" в "GLclampf"
+F:\АОКГ\Lab 1\Source1.cpp(74,20): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+F:\АОКГ\Lab 1\Source1.cpp(74,16): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+F:\АОКГ\Lab 1\Source1.cpp(74,12): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+F:\АОКГ\Lab 1\Source1.cpp(132,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LINK : не найден или не выполнена сборка F:\АОКГ\Lab 1\Debug\Lab 1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Lab 1.vcxproj -> F:\АОКГ\Lab 1\Debug\Lab 1.exe

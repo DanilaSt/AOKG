@@ -1,0 +1,4 @@
+Z:\ИВТ-41-19\Костюшко Д. С\АОКГ\Lab 1\Debug\Lab 1.exe
+Z:\ИВТ-41-19\Костюшко Д. С\АОКГ\Lab 1\Debug\Lab 1.pdb
+F:\АОКГ\Lab 1\Debug\Lab 1.exe
+F:\АОКГ\Lab 1\Debug\Lab 1.pdb
